@@ -1,6 +1,6 @@
 name:Sample Homebrew
 type:0
 files:{
-Sample.3dsx
+exec/Sample.3dsx
 Sample.smdh
 }
